@@ -1,11 +1,11 @@
 # PYTHON-CAPSTONE-PROJECT
 This repository contains the module end capstone project in Python
 
-#Project Overview
+# Project Overview
 
 This project focuses on analyzing a dataset containing information about ABC company team employees,consisting of 458 rows and 9 columns including their team, position, age, and salary. The goal is to explore trends, uncover insights, and visually represent key findings through Python-based data analysis and visualization techniques.
 
-#Preprocessing Steps
+# Preprocessing Steps
 
 1.Loaded the CSV file using pandas.
 
@@ -13,7 +13,7 @@ This project focuses on analyzing a dataset containing information about ABC com
 
 3.Handling missing values.
 
-#Analysis Tasks
+# Analysis Tasks
 
 1.Employee Distribution by Team : Counted the number of employees per team & Calculated the percentage split relative to the total dataset.
 
@@ -25,7 +25,7 @@ This project focuses on analyzing a dataset containing information about ABC com
 
 5.Correlation Between Age and Salary : Computed Pearson correlation coefficient
 
-#Visual Representations
+# Visual Representations
 
 All visualizations were created using Matplotlib and Seaborn for effective data storytelling. They include:
 
@@ -39,7 +39,7 @@ All visualizations were created using Matplotlib and Seaborn for effective data 
 
 5.Scatter plot with regression line for correlation.
 
-#Insights
+# Insights
 
 Team Sizes: Most teams have 15 employees, with slight variations.
 
